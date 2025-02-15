@@ -1,0 +1,5 @@
+2025-02-14 16:54:38,380:INFO:Menu ordering process started
+2025-02-14 16:54:41,418:INFO:Attempting to accept item: dosa
+2025-02-14 16:54:44,989:INFO:User finished adding items
+2025-02-14 16:54:44,991:INFO:Bill printed with total: 200, GST: 24.0, Grand Total: 224.0
+2025-02-14 16:54:44,991:INFO:Menu ordering process completed

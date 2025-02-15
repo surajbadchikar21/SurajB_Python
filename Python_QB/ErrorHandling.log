@@ -1,0 +1,6 @@
+2025-02-15 13:23:34,516 ERROR Validation Failed: Suraj  does not match ^[A-Za-z]+$
+2025-02-15 13:23:34,516 ERROR Unexpected validation error: Invalid Input Format!
+2025-02-15 13:24:00,831 INFO User Validation
+2025-02-15 13:24:00,831 INFO First Name Validation Successful!
+2025-02-15 13:28:51,268 INFO Executed successfully
+2025-02-15 13:28:56,409 INFO Executed successfully
